@@ -1,7 +1,7 @@
 README.txt for version 8.0 of Vim: Vi IMproved.
 
 
-WHAT IS VIM?
+WHAT IS VIM?aaa
 
 Vim is a greatly improved version of the good old UNIX editor Vi.  Many new
 features have been added: multi-level undo, syntax highlighting, command line
